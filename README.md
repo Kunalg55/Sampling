@@ -19,8 +19,11 @@ In above table, each row corresponds to a sampling technique, and each column re
 About the files Uploaded:-
 
 Credicard_data.csv:- It is the original dataset provided which is imbalanced.
+
 resampled_data.csv:- It is the balanced dataset.
+
 accuracy_table.csv:- It is the data of accuracy of different ML models for different sampling techniques.
+
 Sampling.ipynb :- It is a python code which has been created for  calculating the accuracy and other results.
 
 
