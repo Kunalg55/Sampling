@@ -16,7 +16,7 @@ Following the generation of five distinct samples using these techniques, five m
 
 In above table, each row corresponds to a sampling technique, and each column represent the accuracy achieved by each model applied to the respective sample generated using that respective technique.
 
-About the files Uploaded:-
+**About the files Uploaded:-**
 
 Credicard_data.csv:- It is the original dataset provided which is imbalanced.
 
@@ -27,6 +27,6 @@ accuracy_table.csv:- It is the data of accuracy of different ML models for diffe
 Sampling.ipynb :- It is a python code which has been created for  calculating the accuracy and other results.
 
 
-From all the 5 ML models which are been used the best one is the Decision Trees Model.
+**From all the 5 ML models which are been used the best one is the Decision Trees Model.**
 
 
