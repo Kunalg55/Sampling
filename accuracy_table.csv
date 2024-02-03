@@ -1,0 +1,6 @@
+,Logistic Regression,Random Forest,KNN,Naive Bayes,Decision Tree
+Simple Random Sampling,1.0,1.0,1.0,1.0,1.0
+Systematic Sampling,1.0,0.0,1.0,1.0,1.0
+Cluster Sampling,0.9,0.96,0.78,0.94,0.94
+Stratified Sampling,0.96,1.0,0.86,0.84,0.98
+Bootstrap Sampling,0.94,1.0,0.99,0.93,1.0
